@@ -1,0 +1,16 @@
+C:\Users\USER\repo\code challenge lateef\bin\Debug\net5.0\code challenge lateef.exe
+C:\Users\USER\repo\code challenge lateef\bin\Debug\net5.0\code challenge lateef.deps.json
+C:\Users\USER\repo\code challenge lateef\bin\Debug\net5.0\code challenge lateef.runtimeconfig.json
+C:\Users\USER\repo\code challenge lateef\bin\Debug\net5.0\code challenge lateef.runtimeconfig.dev.json
+C:\Users\USER\repo\code challenge lateef\bin\Debug\net5.0\code challenge lateef.dll
+C:\Users\USER\repo\code challenge lateef\bin\Debug\net5.0\ref\code challenge lateef.dll
+C:\Users\USER\repo\code challenge lateef\bin\Debug\net5.0\code challenge lateef.pdb
+C:\Users\USER\repo\code challenge lateef\obj\Debug\net5.0\code challenge lateef.csproj.AssemblyReference.cache
+C:\Users\USER\repo\code challenge lateef\obj\Debug\net5.0\code challenge lateef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\repo\code challenge lateef\obj\Debug\net5.0\code challenge lateef.AssemblyInfoInputs.cache
+C:\Users\USER\repo\code challenge lateef\obj\Debug\net5.0\code challenge lateef.AssemblyInfo.cs
+C:\Users\USER\repo\code challenge lateef\obj\Debug\net5.0\code challenge lateef.csproj.CoreCompileInputs.cache
+C:\Users\USER\repo\code challenge lateef\obj\Debug\net5.0\code challenge lateef.dll
+C:\Users\USER\repo\code challenge lateef\obj\Debug\net5.0\ref\code challenge lateef.dll
+C:\Users\USER\repo\code challenge lateef\obj\Debug\net5.0\code challenge lateef.pdb
+C:\Users\USER\repo\code challenge lateef\obj\Debug\net5.0\code challenge lateef.genruntimeconfig.cache

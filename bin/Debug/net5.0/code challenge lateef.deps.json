@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "code challenge lateef/1.0.0": {
+        "runtime": {
+          "code challenge lateef.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "code challenge lateef/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
